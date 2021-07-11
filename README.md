@@ -1,6 +1,5 @@
 # SM-VoiceBotAssistant
 
-Still In Progress 😃
 
 
 ## What is the Task?
